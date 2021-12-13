@@ -10,7 +10,7 @@ body {
 .fc-theme-standard td,
 .fc-theme-standard th {
   height: 60px; /* 枠の高さ指定 */
-  border-color: #800080;
+  border-color: #000080;
   // #800080 navy #000080
   padding: 0 5px 5px;
 }
